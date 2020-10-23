@@ -1,0 +1,7 @@
+{
+  "name": "itmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
